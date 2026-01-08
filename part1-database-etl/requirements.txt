@@ -1,0 +1,8 @@
+we are using pandas 3.10             
+we have imported _mysql_connector
+from  dotenv  we have imported "load_dotenv"
+we have imported os
+we have imported numpy as np
+we have imported re
+from sqlalchemy , we have imported create_engine
+from datetime, we have  imported datetime

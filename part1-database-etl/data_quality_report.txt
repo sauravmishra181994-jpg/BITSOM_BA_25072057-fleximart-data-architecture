@@ -1,0 +1,18 @@
+Data Quality Report :-
+ For Sales Data:---
+Number of processed records: 41
+Number of duplicates removed: 1
+Number of missing values handled: 5
+Number of records loaded successfully: 40
+
+For Customer Data:---
+Number of processed records 26
+Number of duplicates removed: 1
+Number of missing values handled: 5
+Number of records loaded successfully: 25
+
+For Product Data:---
+Number of processed records: 20
+Number of duplicates removed: 0
+Number of missing values handled: 4
+Number of records loaded successfully: 20
